@@ -2,34 +2,28 @@
 
 ### About Me
 
-I'm a Data Analyst who is passionate about [Technology]. I have experience in [data analysis, consultancy and SAP IBP implementation projects ] and enjoy working with [Python, SQL, Power BI, ETL, DAX, Power Query, API].
+🚀 Production Engineer | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
 
-In my free time, I like to [doing personal projects, reading and playing the piano].
+👋🏻 Hello! My name is Gabriel Oliveira.
 
----
+🎓 I hold a degree in Production Engineering and I have an MBA in Data Analysis from USP/ESALQ, with an expected completion date in 2025.
 
-### My Projects
+💼 I worked for 3.5 years as a Supply Chain consultant at EY, focusing on technology solutions. As an SAP IBP specialist, I was involved in implementation and maintenance projects for both SAP IBP and SAP APO. During this time, I participated in projects related to Demand Planning, S&OP, and Control Tower, in addition to initiatives focused on data quality, process improvement, and data governance.
 
-Here are a few projects I've been working on:
+📊 I currently work as a mid-level Data Analyst in the market intelligence sector. I've always had a passion for the data field, combining my consulting experience with a solid background in analysis. I am particularly interested in transforming data into strategic decisions, with a focus on business, operations, and technology.
 
-- **[OList E-commerce Data Analysis]**: analysis of data from the Olist E-commerce platform.
-  - [Link to Repository](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis)
-
-- **[Commodities Price Forecasting]**: Study of coffee price forecasting with the ARIMA statistical model.
-  - [Link to Repository](https://github.com/GabrielAlbuquerqueDeOliveira/Previsao-Preco-Commodities-Usando-Series-Temporais)
-
-- **[PBI Dashboards]**: See my best Power BI interactive Dashboards and explanations!
-  - [Link to Repository](https://github.com/GabrielAlbuquerqueDeOliveira/Dashboards-PowerBI)
-
- - **[Titanic ML Classification model]**: This project is an in-depth analysis of the famous Titanic dataset, with the goal of predicting passenger survival using machine learning techniques.
-  - [Link to Repository](https://github.com/GabrielAlbuquerqueDeOliveira/Titanic-ML-Classification-Model)
+🎹 In my free time, I like to doing personal projects, reading and playing the piano, which I mostly love.
 
 ---
 
 ### Skills & Contact
 
 **Languages:** Python, SQL, DAX, M, VBA, Java, JavaScript.
+
 **Stack & Tools:** Git, Docker, Power BI, Power Query, Pandas, Numpy, MatPlotLib, Seaborn, ETL, EDA.
+
 **Languages:** English, Portugues, Spanish, French.
+
 **Agile:** Scrum, Kanban.
+
 **Contact:** [gabriel.ooo@hotmail.com](mailto:gabriel.ooo@hotmail.com) | [Your LinkedIn Profile](https://www.linkedin.com/in/gabriel-albuquerque-oliveira98/)
