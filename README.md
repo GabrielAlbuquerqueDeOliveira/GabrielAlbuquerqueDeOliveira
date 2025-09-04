@@ -1,10 +1,8 @@
-# Hello, I'm Gabriel Oliveira! 👋
+# Hello, I'm Gabriel Oliveira! 👋🏻
 
 ### About Me
 
 🚀 Production Engineer | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
-
-👋🏻 Hello! My name is Gabriel Oliveira.
 
 🎓 I hold a degree in Production Engineering and I have an MBA in Data Analysis from USP/ESALQ, with an expected completion date in 2025.
 
