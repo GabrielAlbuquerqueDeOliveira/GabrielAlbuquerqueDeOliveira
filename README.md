@@ -4,7 +4,7 @@
 
 🚀 Production Engineer | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
 
-🎓 I hold a degree in Production Engineering and I have an MBA in Data Analysis from USP/ESALQ.
+🎓 I hold a degree in Production Engineering and I have an MBA in Data Science & Analytics from USP/ESALQ.
 
 
 📊 I currently work as a mid-level Data Analyst in the market intelligence sector. I've always had a passion for the data field, combining my consulting experience with a solid background in analysis. I am particularly interested in transforming data into strategic decisions, with a focus on business, operations, and technology.
