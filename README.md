@@ -2,7 +2,7 @@
 
 ### About Me
 
-🚀 Production Engineer | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
+🚀 Data Scientist | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
 
 🎓 I hold a degree in Production Engineering and I have an MBA in Data Science & Analytics from USP/ESALQ.
 
