@@ -1,29 +1,54 @@
-# Hello, I'm Gabriel Oliveira! 👋🏻
+# Gabriel Oliveira | Data Engineer & Analytics Specialist 👋
 
-### About Me
+### 🚀 Technical Expertise in Data Engineering, Machine Learning & Analytics
 
-🚀 Data Engineer | Data Analyst | Business Intelligence | Supply Chain Consultant | SAP IBP Specialist
-
-🎓 I hold a degree in Production Engineering and I have an MBA in Data Science & Analytics from USP/ESALQ.
-
-
-📊 I currently work as a mid-level Data Analyst in the market intelligence sector. I've always had a passion for the data field, combining my consulting experience with a solid background in analysis. I am particularly interested in transforming data into strategic decisions, with a focus on business, operations, and technology.
-
-
-💼 I worked for 3.5 years as a Supply Chain consultant at EY, focusing on technology solutions. As an SAP IBP specialist, I was involved in implementation and maintenance projects for both SAP IBP and SAP APO. During this time, I participated in projects related to Demand Planning, S&OP, and Control Tower, in addition to initiatives focused on data quality, process improvement, and data governance.
-
-🎹 In my free time, I like to doing personal projects, reading and playing the piano, which I mostly love.
+Focused Data Professional with an **MBA in Data Science & Analytics from USP/ESALQ**. Expert in architecting scalable data pipelines, implementing modern ELT workflows, creating visualizations, and developing AI-driven solutions to solve complex business challenges.
 
 ---
 
-### Skills & Contact
+### 🛠️ Technical Stack
 
-**Languages:** Python, SQL, DAX, M, VBA, Java, JavaScript.
+* **Languages:** Python (Advanced), SQL (Expert - CTEs, Window Functions), PySpark, DAX, Power Query (M).
+* **Data Engineering & Infrastructure:** Databricks, Apache Spark, dbt, Snowflake, DuckDB, Microsoft Fabric, Apache Airflow, Prefect.
+* **Machine Learning & Science:** Random Forest, Time Series (ARIMA/SARIMA), NLP, Feature Engineering, Hyperparameter Tuning (RandomizedSearchCV).
+* **Cloud & DevOps:** AWS (Certified Cloud Practitioner), Azure, GCP, Docker, Git, CI/CD Pipelines.
+* **Analytics & Visualization:** Power BI, Streamlit, automated Data Quality frameworks.
 
-**Stack & Tools:** Git, Docker, Power BI, Power Query, Pandas, Numpy, MatPlotLib, Seaborn, ETL, EDA.
+---
 
-**Languages:** English, Portugues, Spanish, French.
+### 🏆 Professional Achievements & Impact
 
-**Agile:** Scrum, Kanban.
+* **Pipeline Optimization:** Engineered end-to-end data pipelines using Python (ADBC, Pyarrow) and Prefect, achieving a **40% reduction** in processing time and significantly increasing data reliability.
+* **Infrastructure Leadership:** Led the implementation of **Microsoft Fabric**, optimizing query execution and storage efficiency while reducing infrastructure costs.
+* **Data Quality Frameworks:** Developed proprietary monitoring tools that reduced data inconsistencies by **30%**, ensuring a "Single Source of Truth" for executive decision-making.
+* **Process Engineering:** Improved production planning consistency by **25%** through the deployment of advanced statistical demand forecasting models.
 
-**Contact:** [gabriel.ooo@hotmail.com](mailto:gabriel.ooo@hotmail.com) | [Your LinkedIn Profile](https://www.linkedin.com/in/gabriel-albuquerque-oliveira98/)
+---
+
+### 🧪 Featured Projects & Research
+
+* **LLM-Powered Data Analysis Agent:** Built an interactive Streamlit chatbot that converts natural language to SQL. Features a hybrid execution environment (DuckDB + AWS S3) and robust security guardrails to prevent unauthorized DML operations.
+* **Modern ELT Pipeline (dbt + Snowflake + Airflow):** Architected a full-scale ELT pipeline applying software engineering best practices, including automated testing (singular/generic), documentation macros, and Astronomer Cosmos orchestration.
+* **MBA Thesis Research:** Conducted an in-depth study on **ARIMA model effectiveness** for commodity price forecasting (Coffee market), demonstrating high-precision scenarios for financial risk management.
+* **Customer Churn Prediction:** Developed a Random Forest model with rigorous preprocessing to prevent data leakage, achieving **77% recall** on at-risk customer identification.
+
+---
+
+### 🎓 Education & Certifications
+
+* **MBA in Data Science & Analytics** – USP/ESALQ (University of São Paulo)
+* **B.Sc. in Production Engineering** – UniFBV
+* **AWS Certified Cloud Practitioner**
+* **Databricks Lakehouse Fundamentals**
+* **Apache Spark & PySpark Specialization**
+
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/gabriel-albuquerque-oliveira98](https://www.linkedin.com/in/gabriel-albuquerque-oliveira98)
+* **Email:** gabriel.ooo@hotmail.com
+* **Current Location:** São Paulo / Recife, Brazil
+
+---
+*When I'm not optimizing data flows, I'm likely at the piano 🎹*
